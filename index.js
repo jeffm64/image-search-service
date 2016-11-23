@@ -1,4 +1,4 @@
-var app = require('./src/app').app;
+var appFile = require("./src/app").app;
 var express = require("express");
 
 var app = express();
